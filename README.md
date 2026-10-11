@@ -33,8 +33,8 @@ I'm **Kryux**, working on practical cybersecurity tooling:
 
 | Project | What it is |
 |---|---|
-| [**kryux-security-scripts**](https://github.com/KetaNoch/kryux-security-scripts) | 46 Python CLI tools: network scanning, web hardening, forensics, Blue Team, customer pentest workflow (scope guard → findings → report), THM/HTB operator helpers |
-| [**kryux-security-suite**](https://github.com/KetaNoch/kryux-security-suite) | Desktop security workbench (Tkinter, dark-neon UI): SOC dashboard, Nmap/Nikto/SQLMap/Metasploit runners, firewall manager, forensics, Kali arsenal |
+| [**kryux-security-scripts**](https://github.com/Kryuxxx/kryux-security-scripts) | 46 Python CLI tools: network scanning, web hardening, forensics, Blue Team, customer pentest workflow (scope guard → findings → report), THM/HTB operator helpers |
+| [**kryux-security-suite**](https://github.com/Kryuxxx/kryux-security-suite) | Desktop security workbench (Tkinter, dark-neon UI): SOC dashboard, Nmap/Nikto/SQLMap/Metasploit runners, firewall manager, forensics, Kali arsenal |
 
 ---
 
@@ -47,8 +47,8 @@ I'm **Kryux**, working on practical cybersecurity tooling:
 
 ## 📊 Stats
 
-![Kryux's GitHub stats](https://github-readme-stats.vercel.app/api?username=KetaNoch&show_icons=true&theme=dark&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KetaNoch&layout=compact&theme=dark&hide_border=true)
+![Kryux's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kryuxxx&show_icons=true&theme=dark&hide_border=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kryuxxx&layout=compact&theme=dark&hide_border=true)
 
 ---
 
