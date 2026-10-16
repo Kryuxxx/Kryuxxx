@@ -23,8 +23,8 @@ with one goal: **prevent damage before it happens** *(Schadensbekämpfung & Vors
 - ⚔️ **Red team methodology** — recon → scan → enum → access *(lab only)* → report: understand attacks so defenses hit where it hurts
 - 🛡️ **Blue team** — hardening audits, log threat hunting, forensics, incident-response triage
 - 🔍 **Security audits** — network & web hardening checks with professional HTML/JSON reporting
-- 🧪 **Home lab** — own local test server (web + API + DB, intentionally vulnerable), TryHackMe / HackTheBox *(authorized machines only)*
-- 🐍 **Python** — standard-library-first CLI tools: scannable, scriptable, reportable
+- 🧪 **Home lab** — own local test server (web + API + DB, intentionally vulnerable) for red→blue practice loops; fundamentals learned on TryHackMe / HackTheBox
+- 🐍 **Scripting & Web (Python + JavaScript, HTML/CSS)** — standard-library-first CLI tools, automation & payloads: scannable, scriptable, reportable
 
 > ⚖️ **Ethics first:** everything here is for my own systems, my home lab, or
 > customer systems **with prior written authorization**. No exceptions.
@@ -46,7 +46,6 @@ with one goal: **prevent damage before it happens** *(Schadensbekämpfung & Vors
 |---|---|
 | [**kryux-security-scripts**](https://github.com/Kryuxxx/kryux-security-scripts) | 46 Python CLI tools: network scanning, web hardening, forensics, Blue Team, customer pentest workflow (scope guard → findings → report), THM/HTB operator helpers |
 | [**kryux-security-suite**](https://github.com/Kryuxxx/kryux-security-suite) | Desktop security workbench (Tkinter, dark-neon UI): SOC dashboard, Nmap/Nikto/SQLMap/Metasploit runners, firewall manager, forensics, Kali arsenal (39 curated + 324 catalog tools) |
-| [**kryux-kali-akademie**](https://github.com/Kryuxxx/kryux-kali-akademie) | Learning app (Tkinter): 49 Kali tools explained with commands, 20 Python security modules, 5 learning paths, quiz + progress tracking |
 
 ---
 
@@ -58,8 +57,7 @@ with one goal: **prevent damage before it happens** *(Schadensbekämpfung & Vors
 **Defense:** `UFW / iptables` · `fail2ban` · `Wireshark / tshark` · `YARA` ·
 `Linux hardening` · `Log threat hunting` · `Forensics`
 
-**Base:** `Python` · `Bash` · `SQLite` · `Linux (Kali / Ubuntu)` · `Git` ·
-`TryHackMe` · `HackTheBox`
+**Base:** `Python` · `JavaScript` · `HTML / CSS` · `Bash` · `SQLite` · `Linux (Kali / Ubuntu)` · `Git`
 
 ---
 
@@ -72,9 +70,9 @@ with one goal: **prevent damage before it happens** *(Schadensbekämpfung & Vors
 
 ## 🎯 Currently
 
+- 🐛 Working as a **bug bounty hunter** in cyber security
 - Running a local red→blue lab loop: attack simulator → log threat hunting → harden
 - Expanding the KRYUX toolset (detection + reporting depth)
-- Working through THM/HTB learning paths
 - Open to feedback on the tools — issues & ideas welcome (once repos go public)
 
 ---
@@ -87,8 +85,6 @@ with one goal: **prevent damage before it happens** *(Schadensbekämpfung & Vors
 
 <!--
 TODO (optional, alles freiwillig):
-- TryHackMe-Badge: https://tryhackme.com/p/<dein-name> als Link ergänzen
-- HackTheBox-Profil verlinken
 - E-Mail / Website für Kontakt ergänzen
-- Pinned Repos im Profil anheften (wenn öffentlich): kryux-security-scripts, kryux-security-suite, kryux-kali-akademie
+- Pinned Repos im Profil anheften (wenn öffentlich): kryux-security-scripts, kryux-security-suite
 -->
