@@ -24,6 +24,7 @@ with one goal: **prevent damage before it happens** *(Schadensbekämpfung & Vors
 - 🛡️ **Blue team** — hardening audits, log threat hunting, forensics, incident-response triage
 - 🔍 **Security audits** — network & web hardening checks with professional HTML/JSON reporting
 - 🧪 **Home lab** — own local test server (web + API + DB, intentionally vulnerable) for red→blue practice loops; fundamentals learned on TryHackMe / HackTheBox
+- 🐉 **10+ years Kali Linux** — daily driver for over a decade: toolset, workflows & custom tooling
 - 🐍 **Scripting & Web (Python + JavaScript, HTML/CSS)** — standard-library-first CLI tools, automation & payloads: scannable, scriptable, reportable
 
 > ⚖️ **Ethics first:** everything here is for my own systems, my home lab, or
